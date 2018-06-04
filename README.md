@@ -2,6 +2,7 @@
 Best Practices Template for use in Ansible Roles
 
 # Sources
+```
 http://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html#directory-layout
 http://docs.ansible.com/ansible/latest/user_guide/playbooks_reuse_roles.html
 
