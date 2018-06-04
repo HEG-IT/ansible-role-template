@@ -12,7 +12,7 @@ tasks/           #
 handlers/        #
    main.yml      #  <-- handlers file   
 templates/       #  <-- files for use with the template resource
-   foo.cofig.j2  #  <------- templates end in .j2   
+   foo.config.j2  #  <------- templates end in .j2   
 files/           #
    bar.txt       #  <-- files for use with the copy resource
    foo.sh        #  <-- script files for use with the script resource   
